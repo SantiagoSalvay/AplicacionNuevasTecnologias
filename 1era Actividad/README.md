@@ -73,3 +73,14 @@ src/
 - You must set up your own Supabase project and configure the environment variables for authentication to work
 - For production, ensure you properly secure your environment variables
 - Consider implementing additional features like password reset, email verification, and profile management
+
+## Fotos
+
+### Cuenta Activada
+[Imagen de la cuenta activada]
+
+### Excusa en Español
+[Imagen de la excusa en español]
+
+### Excusa en Inglés
+[Imagen de la excusa en inglés]

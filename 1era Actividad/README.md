@@ -77,10 +77,11 @@ src/
 ## Fotos
 
 ### Cuenta Activada
-[Imagen de la cuenta activada]
+![image](https://github.com/user-attachments/assets/655716a5-3701-4caf-8afb-77a64c4fa561)
 
 ### Excusa en Español
-[Imagen de la excusa en español]
+![image](https://github.com/user-attachments/assets/d3185f96-854c-45fb-a221-77531cb759af)
 
 ### Excusa en Inglés
-[Imagen de la excusa en inglés]
+![image](https://github.com/user-attachments/assets/f7314d34-149f-428d-9537-82ccbdf3b2e7)
+
